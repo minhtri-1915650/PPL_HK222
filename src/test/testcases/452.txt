@@ -1,0 +1,7 @@
+
+        func: function void () {
+            a: integer = 3;
+            return;
+            return a;
+        }
+        

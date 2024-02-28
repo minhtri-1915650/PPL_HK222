@@ -1,0 +1,7 @@
+
+        inhr: function void(inherit a: auto) {}
+        func: function void() inherit inhr {
+            super(1,2,3);
+            a = 2.3;
+        }
+        

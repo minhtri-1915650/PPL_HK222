@@ -1,0 +1,8 @@
+
+        main: function void() {
+            a: auto = 2;
+            for (a = 1.2, a < 10, a + 1) {
+            
+            }
+        }  
+        

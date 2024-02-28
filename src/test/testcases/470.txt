@@ -1,0 +1,26 @@
+
+        a: auto = {{1,2,3},{2,3,4}};
+        func: function void (a: integer, b: integer, c:integer) {}
+        main: function void () {
+            i:integer;
+            for (i = 1, {1,2,3}, a + {1,2,3}) {
+                
+            }
+            if ({1,2,3}) {
+            
+            }
+            else {
+            
+            }
+            do {
+            
+            }
+            while({1,2,3});
+            while({1,2,3}) {}
+            break;
+            continue;
+            return a;
+            func(1,2,3);
+            bo: boolean = readBoolean();
+        }
+        

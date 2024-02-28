@@ -1,0 +1,9 @@
+
+        main: function void() {
+            a: integer = 5.3;
+            {
+                a: float;
+            }
+            a: string = 5;
+        }
+        

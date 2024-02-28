@@ -1,0 +1,7 @@
+
+            b: integer = 2;
+            func: function void(a: auto) {
+                a = b;
+                a= a::2;
+            }
+        

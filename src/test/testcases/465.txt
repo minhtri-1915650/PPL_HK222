@@ -1,0 +1,5 @@
+
+        main: function void() {
+            var: integer = - "1cbsi";
+        }
+        

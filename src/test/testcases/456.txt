@@ -1,0 +1,7 @@
+
+        func: function void (inherit a: integer) {}
+        func123: function void () inherit func {
+            super(2);
+            a = 5;
+        }   
+        

@@ -1,0 +1,7 @@
+
+        func: function auto () {
+        
+        }
+        var: array[3,2] of integer = {{1,2},{2,3},{func(),5}};
+        var2: string = func();
+        

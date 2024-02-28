@@ -1,0 +1,6 @@
+
+            func: function void(a: auto) {
+                b: float = a + 2;
+                c: float = a::"sb";
+            }
+        

@@ -1,0 +1,7 @@
+
+        main: function void() {
+            i:integer;
+            a:float = 2;
+            for (i = 0, true, {1,"2",3}) {}
+        }
+        

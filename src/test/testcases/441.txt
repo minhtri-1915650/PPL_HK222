@@ -1,0 +1,11 @@
+
+        main: function void() {
+            a: integer;
+            if (a == 2) {
+                if (a == 3) {
+                    break;
+                    for (a = 1, a < 1, a + 2) {}
+                }
+            }
+        }  
+        

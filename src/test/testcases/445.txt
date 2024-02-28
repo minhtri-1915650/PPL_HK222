@@ -1,0 +1,9 @@
+
+        a: function auto() {}
+        b: function auto() {}
+        main: function void () {
+            c: array[2] of float = {a(), b()};
+            printInteger(a());
+
+        }
+        

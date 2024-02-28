@@ -1,0 +1,11 @@
+
+        func: function auto (a: auto, b: auto) {
+            a = 3;
+            b = 4.5;
+            return "abc";
+        }
+
+        main: function void () {
+            a:float = func(1, 3.2);
+        }
+        

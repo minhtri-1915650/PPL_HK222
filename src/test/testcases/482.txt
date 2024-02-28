@@ -1,0 +1,6 @@
+
+        func: function void () {
+            return 3;
+        }
+
+        

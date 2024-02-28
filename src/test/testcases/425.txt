@@ -1,0 +1,8 @@
+
+            func2: function void (a: float) inherit func {
+                super(1,2);
+            }
+            func: function void (inherit a: integer, a: float) {
+            
+            }
+        

@@ -1,0 +1,6 @@
+
+            func: function integer() {
+                a: integer = 1;
+            }
+
+        

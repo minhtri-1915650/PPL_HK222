@@ -1,0 +1,5 @@
+
+            func: function void() inherit a {
+                super();
+            }
+        

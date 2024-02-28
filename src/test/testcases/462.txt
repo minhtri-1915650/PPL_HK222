@@ -1,0 +1,11 @@
+
+        func: function auto (a: auto, b: auto) {
+            a = 3;
+            b = 4.5;
+            return "abc";
+        }
+
+        main: function void () {
+            func(4.5, 3);
+        }
+        

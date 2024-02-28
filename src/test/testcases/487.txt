@@ -1,0 +1,6 @@
+
+        main: function void(c: integer, a: float){
+            a: integer;
+    
+        }
+        

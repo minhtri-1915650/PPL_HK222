@@ -1,0 +1,7 @@
+
+        main: function void () {
+            a: auto = readInteger();
+            printInteger(a);
+            return 3;
+        }
+        
